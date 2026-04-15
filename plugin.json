@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "YOLO-style autonomous mode without commits",
   "author": "fichtip",
-  "defaultAgent": "yolo-safe"
+  "defaultAgent": "yolo-safe",
   "license": "Apache-2.0"
 }
