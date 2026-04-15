@@ -1,0 +1,10 @@
+{
+  "beforeTool": [
+    {
+      "tool": "bash",
+      "match": "git (commit|push|rebase)",
+      "action": "block",
+      "message": "🚫 Commit blocked: YOLO-safe mode forbids commits, push or rebase"
+    }
+  ]
+}
