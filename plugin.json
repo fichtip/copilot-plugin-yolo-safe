@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "YOLO-style autonomous mode without commits",
   "author": "fichtip",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
   "agents": [
     {
       "name": "yolo-safe",
